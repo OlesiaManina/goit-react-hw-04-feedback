@@ -1,0 +1,11 @@
+.buttonsWrap {
+    display: flex;
+    gap: 5px;
+}
+
+.button {
+    font-size: small;
+    font-weight: 550;
+    border: 1px solid rgb(196, 195, 195);
+    border-radius: 3px;
+}
