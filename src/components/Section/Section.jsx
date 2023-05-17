@@ -6,7 +6,6 @@ const Section = ({title, children}) => (
     <h1 className={css.title}>{title}</h1>
     {children}
     </div>
-    
 )
 
 export default Section;
